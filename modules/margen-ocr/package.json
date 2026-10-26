@@ -1,0 +1,5 @@
+{
+  "name": "margen-ocr", "version": "0.1.0", "private": true,
+  "description": "OCR local de capturas seleccionadas por el usuario",
+  "main": "index.ts"
+}

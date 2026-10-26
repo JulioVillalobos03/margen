@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-21",
+  "scope": "Interaction repairs and authentication forms within existing native app",
+  "framework": "Expo SDK 57 / React Native",
+  "typography": "existing system sans",
+  "paletteSource": "src/theme.ts",
+  "palette": "ivory #FAF9F5, forest #075D46, ink #101D2D",
+  "motion": "existing native scroll and press states only",
+  "preserve": ["approved visual identity", "four bottom tabs", "existing screens", "pilot history"],
+  "repair": ["swipe activation", "back stack", "tab re-selection", "content height changes", "session transitions"]
+}
